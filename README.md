@@ -1,2 +1,3 @@
 # JavaHelloWorld
-I wnat to write a sampe java program that prints hello world
+Let's get started to learn Java!
+This is a simple hello world program in java.
